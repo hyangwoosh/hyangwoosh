@@ -29,7 +29,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 > ### ⚡ Fun facts and hobbies: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=20&color=F70000FF&duration=4000&lines=I+love+building+computers+and+custom+keyboards;I'm+an+audiophile;Longboarding;I+like+clothes+and+fasion;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=20&color=F70000FF&duration=6000&lines=I+love+building+computers+and+custom+keyboards;I'm+an+audiophile;Longboarding;I+like+clothes+and+fasion;)](https://git.io/typing-svg)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
