@@ -9,7 +9,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 > ### ⚙️ Languages and Skills: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F4007A&duration=2000&lines=Javascript;Typescript;html-css;Java;ReactJS;C#;SQL;noSQL;ExpressJS;Python;Android+Studio;Robotic+Process+Automation;Agile+Methodologies;AWS;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F4007A&duration=2000&lines=Javascript;Typescript;html-css;Java;ReactJS;C+Sharp;SQL;noSQL;ExpressJS;Python;Android+Studio;Robotic+Process+Automation;Agile+Methodologies;AWS;)](https://git.io/typing-svg)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
